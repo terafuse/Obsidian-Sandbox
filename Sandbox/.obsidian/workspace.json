@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "39ce06f6575e055a",
+    "type": "split",
+    "children": [
+      {
+        "id": "81d5285751023856",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bde5236c76573a65",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d0bf095039b541d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Daily Notes/2023/07.25.23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "679cbed9a92d3094",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Workspace/Daily Workbook.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9ce121e22934883",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5ea39e1680ff1a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "265cd440ec86e79e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f271e9070d9ed849",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#MIT-List",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "857774feba1c0e55",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 424.5
+  },
+  "right": {
+    "id": "6a940eb821ac9f09",
+    "type": "split",
+    "children": [
+      {
+        "id": "d347e0cd0f8b4b48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2962fd01193ecbea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "My Workspace/Daily Workbook.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb7078b94894b276",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "My Workspace/Daily Workbook.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f41aeee7f334462e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7951e349f41739be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "My Workspace/Daily Workbook.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "active": "265cd440ec86e79e",
+  "lastOpenFiles": [
+    "_Daily Notes/2023/07.25.23.md",
+    "_Daily Notes/2023/07.22.23.md",
+    "_Daily Notes/2023/07.21.23.md",
+    "_Daily Notes/2023/07.24.23.md",
+    "_Templates/(Template) Daily Notes.md",
+    "My Workspace/Daily Workbook.md",
+    "Projects/Work Projects/Site Visit/Site Visit.md",
+    "Projects/_Tasks-Timeline/demo_file.md",
+    "Projects/_Tasks-Timeline/README.md",
+    "Projects/_Tasks-Timeline/Taskido/view.js",
+    "Projects/_Tasks-Timeline/Taskido/view.css",
+    "Projects/_Tasks-Timeline/Taskido/demo_file.md",
+    "Projects/_Tasks-Timeline/Taskido",
+    "Projects/_Tasks-Timeline",
+    "Projects/Obsidian-Tasks-Timeline-main/Taskido/view.js",
+    "Projects/Obsidian-Tasks-Timeline-main/Taskido/view.css",
+    "Projects/Obsidian-Tasks-Timeline-main/Taskido/demo_file.md",
+    "Projects/Obsidian-Tasks-Timeline-main/Taskido",
+    "Projects/Obsidian-Tasks-Timeline-main/README.md",
+    "Projects/Obsidian-Tasks-Timeline-main",
+    "Projects/_Tasks-Timeline/Tasks Timeline.md",
+    "My Workspace/Task List.md",
+    "Projects/_Tasks-Timeline/view.css",
+    "Projects/_Tasks-Timeline/view.css.md",
+    "_Metadata Menu/Project_fields/Priority.md",
+    "Projects/_Tasks-Timeline/view.js",
+    "_Metadata Menu/Class/Project/Course.md",
+    "_Metadata Menu/Class/Global.md",
+    "My Workspace/Notes/WTF is zettelkasten.md",
+    "My Workspace/Notes/Metadata Menu Plugin.md",
+    "My Workspace/Notes/Inline Fields.md",
+    "_Metadata Menu/Class/Notebook.md",
+    "_Metadata Menu/Class/Project.md",
+    "_Metadata Menu/Global_fields/tags.md",
+    "kingdom.md",
+    "Projects/House Projects/House Refresh.md",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "templateHeading": "#### #MIT-list ",
+  "deleteOnComplete": true,
+  "removeEmptyTodos": true,
+  "rolloverChildren": true
+}

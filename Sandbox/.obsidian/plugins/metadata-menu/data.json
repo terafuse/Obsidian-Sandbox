@@ -1,0 +1,21 @@
+{
+  "presetFields": [],
+  "fileClassQueries": [],
+  "displayFieldsInContextMenu": false,
+  "globallyIgnoredFields": [],
+  "classFilesPath": "_Metadata Menu/Class/",
+  "isAutosuggestEnabled": true,
+  "fileClassAlias": "Class",
+  "settingsVersion": 3,
+  "globalFileClass": "Global",
+  "firstDayOfWeek": 1,
+  "enableLinks": true,
+  "enableTabHeader": true,
+  "enableEditor": true,
+  "enableBacklinks": true,
+  "enableStarred": true,
+  "enableFileExplorer": true,
+  "enableSearch": true,
+  "buttonIcon": "clipboard-list",
+  "tableViewMaxRecords": 100
+}

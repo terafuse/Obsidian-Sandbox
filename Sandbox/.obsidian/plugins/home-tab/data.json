@@ -1,0 +1,46 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Whats Next?",
+  "customFont": "interfaceFont",
+  "fontSize": "3em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showStarredFiles": false,
+  "showRecentFiles": true,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "My Workspace/Daily Workbook.md",
+      "timestamp": 1690297215324
+    },
+    {
+      "filepath": "_Daily Notes/2023/07.25.23.md",
+      "timestamp": 1690297175158
+    },
+    {
+      "filepath": "_Templates/(Template) Daily Notes.md",
+      "timestamp": 1690289096403
+    }
+  ],
+  "starredFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false,
+  "font": "\"OCR A\""
+}
