@@ -10,7 +10,6 @@ Links: [[Daily Workbook]]
 --- 
 #### #Calendar
 
-
 ## Daily Time Tracker
 --- 
 #### #Time-log 
@@ -23,8 +22,6 @@ Links: [[Daily Workbook]]
 >[!todo] **Mon-Fri (1hr) @ 8-9 am** - *Create "MIT-list" before 9am*
 
 #### #MIT-list 
-
-
 
 
 ## Thoughts, progress and updates on anything

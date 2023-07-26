@@ -4,43 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "81d5285751023856",
+        "id": "5e2eaeb7d8212015",
         "type": "tabs",
         "children": [
           {
-            "id": "bde5236c76573a65",
+            "id": "a9174f55a4e2e579",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
+              "type": "home-tab-view",
               "state": {}
             }
-          },
-          {
-            "id": "d0bf095039b541d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Daily Notes/2023/07.25.23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "679cbed9a92d3094",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Workspace/Daily Workbook.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424.5
+    "width": 304.5
   },
   "right": {
     "id": "6a940eb821ac9f09",
@@ -106,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Workspace/Daily Workbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Workspace/Daily Workbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "My Workspace/Daily Workbook.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -159,26 +130,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "daily-notes:Open today's daily note": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "265cd440ec86e79e",
+  "active": "a9174f55a4e2e579",
   "lastOpenFiles": [
+    "My Workspace/Daily Workbook.md",
+    "Projects/_Tasks-Timeline/README.md",
+    "Projects/_Tasks-Timeline/demo_file.md",
+    "_Templates/(Template) Daily Notes.md",
     "_Daily Notes/2023/07.25.23.md",
     "_Daily Notes/2023/07.22.23.md",
     "_Daily Notes/2023/07.21.23.md",
     "_Daily Notes/2023/07.24.23.md",
-    "_Templates/(Template) Daily Notes.md",
-    "My Workspace/Daily Workbook.md",
     "Projects/Work Projects/Site Visit/Site Visit.md",
-    "Projects/_Tasks-Timeline/demo_file.md",
-    "Projects/_Tasks-Timeline/README.md",
     "Projects/_Tasks-Timeline/Taskido/view.js",
     "Projects/_Tasks-Timeline/Taskido/view.css",
     "Projects/_Tasks-Timeline/Taskido/demo_file.md",
