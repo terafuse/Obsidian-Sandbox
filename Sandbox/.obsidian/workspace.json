@@ -135,8 +135,7 @@
       "switcher:Open quick switcher": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "homepage:Open homepage": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "homepage:Open homepage": false
     }
   },
   "active": "a9174f55a4e2e579",
