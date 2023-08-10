@@ -1,6 +1,8 @@
 ---
 Status: inProgress
 Priority: Next
+Class: [Global, Notebook]
+Purpose: [Notes]
 ---
 > [!tip] There are people worse than you at everything, getting paid and making way more than you because they didn't wait till they were "ready".
 
@@ -15,11 +17,11 @@ Priority: Next
 
 
 - #HouseRefresh
-	- [ ] Paint Kitchen
-		- [ ] primer
-		- [ ] trim
-		- [ ] color?
 	- [ ] Garage Door
+	- [ ] Paint Kitchen
+		- [ ] trim
+		- [ ] primer
+		- [ ] color?
 
 
 

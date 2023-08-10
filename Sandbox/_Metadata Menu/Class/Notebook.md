@@ -2,8 +2,10 @@
 limit: 100
 mapWithTag: false
 icon: clipboard-list
-tagNames: null
-excludes: null
-extends: Global
-version: 3
+tagNames: 
+excludes: 
+extends: 
+version: 5
 ---
+
+Purpose:: {"type":"Multi","options":{"valuesList":{},"sourceType":"ValuesListNotePath","valuesListNotePath":"_Metadata Menu/Notebook_fields/Purpose.md","valuesFromDVQuery":""}}

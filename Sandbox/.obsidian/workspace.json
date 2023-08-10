@@ -4,15 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "5e2eaeb7d8212015",
+        "id": "b11de4e6bdf77093",
         "type": "tabs",
         "children": [
           {
-            "id": "a9174f55a4e2e579",
+            "id": "dc78fb2045dd9220",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
+              "type": "obsidian-projects",
               "state": {}
+            }
+          },
+          {
+            "id": "b0ef3c48a705276b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 358.5
   },
   "right": {
     "id": "6a940eb821ac9f09",
@@ -122,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -130,17 +142,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-full-calendar:Open Full Calendar": false,
       "daily-notes:Open today's daily note": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "a9174f55a4e2e579",
+  "active": "dc78fb2045dd9220",
   "lastOpenFiles": [
+    "Projects/Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
+    "Projects/Work Projects/Multifamily PV Brooklyn, NY.md",
+    "Projects/Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
+    "Projects/Projects - Demo Project/Why You Should Be Taking More Notes.md",
+    "Projects/Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
+    "Projects/Projects - Demo Project/The Best Notes You'll Ever Make.md",
+    "Projects/Projects - Demo Project",
+    "Projects/Untitled Kanban.md",
     "My Workspace/Daily Workbook.md",
+    "_Metadata Menu/Notebook_fields/Purpose.md",
+    "_Metadata Menu/Notebook_fields",
+    "_Metadata Menu/Class/Routine.md",
+    "_Metadata Menu/Class/Project.md",
+    "Projects/House Projects/House Refresh.md",
+    "_Metadata Menu/Project_fields/Status.md",
+    "_Metadata Menu/Project_fields/Project.md",
+    "_Metadata Menu/Project_fields/Priority.md",
+    "My Workspace/Notes/Inline Fields.md",
     "Projects/_Tasks-Timeline/README.md",
     "Projects/_Tasks-Timeline/demo_file.md",
     "_Templates/(Template) Daily Notes.md",
@@ -148,7 +179,7 @@
     "_Daily Notes/2023/07.22.23.md",
     "_Daily Notes/2023/07.21.23.md",
     "_Daily Notes/2023/07.24.23.md",
-    "Projects/Work Projects/Site Visit/Site Visit.md",
+    "Projects/Work Projects/Site Visit.md",
     "Projects/_Tasks-Timeline/Taskido/view.js",
     "Projects/_Tasks-Timeline/Taskido/view.css",
     "Projects/_Tasks-Timeline/Taskido/demo_file.md",
@@ -158,24 +189,7 @@
     "Projects/Obsidian-Tasks-Timeline-main/Taskido/view.css",
     "Projects/Obsidian-Tasks-Timeline-main/Taskido/demo_file.md",
     "Projects/Obsidian-Tasks-Timeline-main/Taskido",
-    "Projects/Obsidian-Tasks-Timeline-main/README.md",
     "Projects/Obsidian-Tasks-Timeline-main",
-    "Projects/_Tasks-Timeline/Tasks Timeline.md",
-    "My Workspace/Task List.md",
-    "Projects/_Tasks-Timeline/view.css",
-    "Projects/_Tasks-Timeline/view.css.md",
-    "_Metadata Menu/Project_fields/Priority.md",
-    "Projects/_Tasks-Timeline/view.js",
-    "_Metadata Menu/Class/Project/Course.md",
-    "_Metadata Menu/Class/Global.md",
-    "My Workspace/Notes/WTF is zettelkasten.md",
-    "My Workspace/Notes/Metadata Menu Plugin.md",
-    "My Workspace/Notes/Inline Fields.md",
-    "_Metadata Menu/Class/Notebook.md",
-    "_Metadata Menu/Class/Project.md",
-    "_Metadata Menu/Global_fields/tags.md",
-    "kingdom.md",
-    "Projects/House Projects/House Refresh.md",
     "Untitled.canvas"
   ]
 }

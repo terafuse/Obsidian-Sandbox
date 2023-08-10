@@ -6,8 +6,8 @@
   "homepage",
   "simple-time-tracker",
   "tag-wrangler",
-  "obsidian-tasks-plugin",
   "obsidian-outliner",
   "obsidian-rollover-daily-todos",
-  "obsidian-full-calendar"
+  "obsidian-full-calendar",
+  "obsidian-projects"
 ]
